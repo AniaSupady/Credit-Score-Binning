@@ -1,6 +1,6 @@
 # Credit-Score-Binning: automate the process of binning credit scores into predefined 5-point ranges
 
-
+https://github.com/AniaSupady/Credit-Score-Binning/blob/main/Binning.ipynb
 
 How the Code Achieves This
 Creating the Bins: The code first constructs the bin boundaries. The L1, L2, R1, and R2 variables, combined with np.arange(), generate the start and end points for the 5-point bins (e.g., 315-320, 321-326, etc.). The combined and sorted list, band, acts as the precise set of boundaries for all credit score ranges.
